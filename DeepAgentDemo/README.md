@@ -30,8 +30,13 @@ This repository contains demonstrations and experiments with LLM agents, LangCha
    ```
 
 3. **Install dependencies:**
+   Using pip:
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
+   ```
+   Or using `uv`:
+   ```bash
+   uv sync
    ```
 
 4. **Configure environment variables:**
